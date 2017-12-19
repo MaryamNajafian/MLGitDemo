@@ -1,6 +1,8 @@
 #!/usr/bin/python 
  
 print "helloooooooooo"
+print "baaalaaa"
+print "blaaa"
 print "blaaa"
 print "hello world" 
 print "hello world" 
